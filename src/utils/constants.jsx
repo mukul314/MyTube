@@ -23,7 +23,7 @@ export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/bud
 
 export const categories = [
   { name: 'Home', icon: <HomeIcon />, },
-  { name: 'JS mastery', icon: <CodeIcon />, },
+  { name: 'Dude Perfect', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'Next Js', icon: <CodeIcon />, },
