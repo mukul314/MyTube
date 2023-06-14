@@ -22,11 +22,11 @@ export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Project
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
 
 export const categories = [
-  { name: 'New', icon: <HomeIcon />, },
-  { name: 'JS Mastery', icon: <CodeIcon />, },
+  { name: 'Home', icon: <HomeIcon />, },
+  { name: 'JS mastery', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
-  { name: 'NextJS', icon: <CodeIcon />, },
+  { name: 'Next Js', icon: <CodeIcon />, },
   { name: 'Music', icon: <MusicNoteIcon /> },
   { name: 'Education', icon: <SchoolIcon />, },
   { name: 'Podcast', icon: <GraphicEqIcon />, },
